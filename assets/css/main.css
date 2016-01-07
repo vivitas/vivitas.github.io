@@ -3434,3 +3434,11 @@
 			}
 
 		}
+
+/*
+*/
+.portrait img {
+	border-radius: 100%;
+	display: block;
+	max-width: 50%;
+}
